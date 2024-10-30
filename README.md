@@ -1,5 +1,8 @@
 # ShopMaster
 
+## Statut du Projet
+🚧 **En cours de développement** 🚧
+
 ## Introduction
 **ShopMaster** est une application de commerce électronique basée sur une architecture de microservices. Chaque microservice est indépendant et responsable d'une fonctionnalité spécifique de l'application, assurant une modularité et une évolutivité accrues.
 
