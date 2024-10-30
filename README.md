@@ -1,15 +1,15 @@
 # ShopMaster
 
-## Statut du Projet
-🚧 **En cours de développement** 🚧
+## Project Status
+🚧 **In Development** 🚧
 
 ## Introduction
-**ShopMaster** est une application de commerce électronique basée sur une architecture de microservices. Chaque microservice est indépendant et responsable d'une fonctionnalité spécifique de l'application, assurant une modularité et une évolutivité accrues.
+**ShopMaster** is an e-commerce application based on a microservices architecture. Each microservice is independent and responsible for a specific functionality of the application, ensuring modularity and increased scalability.
 
-## Architecture du Projet
-L'application ShopMaster est divisée en plusieurs microservices qui communiquent entre eux via des appels HTTP. Cette architecture permet une séparation des préoccupations, une meilleure gestion des dépendances, et la possibilité de scaler chaque service indépendamment.
+## Project Architecture
+The ShopMaster application is divided into several microservices that communicate with each other via HTTP calls. This architecture allows for a separation of concerns, better dependency management, and the ability to scale each service independently.
 
-## Menu des Services
+## Service Menu
 - **ShopMaster.Web**
 - **ShopMaster.Services.CouponAPI**
 - **ShopMaster.Services.ProductAPI**
@@ -20,41 +20,41 @@ L'application ShopMaster est divisée en plusieurs microservices qui communiquen
 - **ShopMaster.Gateway**
 - **ShopMaster.Services.RewardAPI**
 
-### Services dans le Projet
+### Services in the Project
 
 1. **ShopMaster.Web**  
- C'est le frontend de l'application ShopMaster, développé avec ASP.NET MVC. Ce composant permet aux utilisateurs finaux d'interagir avec les différents services de l'application, notamment pour l'authentification, la gestion des produits, et le panier d'achat. Il consomme les APIs des microservices pour afficher les informations aux utilisateurs.
+   This is the frontend of the ShopMaster application, developed with ASP.NET MVC. This component allows end-users to interact with the various services of the application, including authentication, product management, and shopping cart functionality. It consumes the APIs of the microservices to display information to users.
 
- 2. **ShopMaster.Services.CouponAPI**  
-   Ce service gère les coupons de l'application ShopMaster. Développé avec ASP.NET Core, il permet aux utilisateurs de créer, lire, mettre à jour et supprimer des coupons. Il utilise Entity Framework pour interagir avec la base de données des coupons et AutoMapper pour gérer les mappages entre les modèles de données et les DTOs. Ce service est sécurisé par des autorisations basées sur les rôles, permettant uniquement aux administrateurs de créer et de modifier des coupons. Les informations sur les coupons sont exposées via une API REST, et le service se connecte à une base de données SQL Server pour le stockage des données.
+2. **ShopMaster.Services.CouponAPI**  
+   This service manages the coupons within the ShopMaster application. Developed with ASP.NET Core, it allows users to create, read, update, and delete coupons. It uses Entity Framework to interact with the coupon database and AutoMapper to manage mappings between data models and DTOs. This service is secured by role-based permissions, allowing only administrators to create and modify coupons. Coupon information is exposed via a REST API, and the service connects to a SQL Server database for data storage.
 
-3. **ShopMaster.Services.ProductAPI**
-Ce service gère les produits de l'application ShopMaster. Développé avec ASP.NET Core, il permet aux utilisateurs de créer, lire, mettre à jour et supprimer des produits. Il utilise Entity Framework pour interagir avec la base de données des produits et AutoMapper pour gérer les mappages entre les modèles de données et les DTOs. Ce service est sécurisé par des autorisations basées sur les rôles, permettant uniquement aux administrateurs de créer et de modifier des produits. Les informations sur les produits sont exposées via une API REST, et le service se connecte à une base de données SQL Server pour le stockage des données.
+3. **ShopMaster.Services.ProductAPI**  
+   This service manages the products within the ShopMaster application. Developed with ASP.NET Core, it allows users to create, read, update, and delete products. It uses Entity Framework to interact with the product database and AutoMapper to manage mappings between data models and DTOs. This service is secured by role-based permissions, allowing only administrators to create and modify products. Product information is exposed via a REST API, and the service connects to a SQL Server database for data storage.
 
-4. **ShopMaster.Services.AuthAPI**
-Ce service gère l'authentification des utilisateurs dans l'application ShopMaster. Développé avec ASP.NET Core, il permet aux utilisateurs de s'inscrire, de se connecter et d'assigner des rôles. Le service utilise Identity Framework pour gérer les utilisateurs et les rôles, et Entity Framework pour interagir avec la base de données d'authentification. Les tokens JWT sont générés pour assurer une authentification sécurisée et sont configurés à partir des options spécifiées dans le fichier de configuration. Les points de terminaison de l'API sont exposés via une API REST, permettant une intégration fluide avec d'autres services de l'application. Ce service se connecte à une base de données SQL Server pour le stockage des données et utilise Swagger pour la documentation de l'API.
+4. **ShopMaster.Services.AuthAPI**  
+   This service handles user authentication in the ShopMaster application. Developed with ASP.NET Core, it allows users to register, log in, and assign roles. The service uses Identity Framework to manage users and roles, and Entity Framework to interact with the authentication database. JWT tokens are generated to ensure secure authentication and are configured based on options specified in the configuration file. The API endpoints are exposed via a REST API, allowing for smooth integration with other services within the application. This service connects to a SQL Server database for data storage and uses Swagger for API documentation.
 
-5. **ShopMaster.MessageBus**
-Ce service gère la communication asynchrone entre les différents microservices de l'application ShopMaster. Développé avec .NET 8, il utilise Azure Service Bus pour publier des messages dans des topics et des queues. L'interface IMessageBus définit la méthode PublishMessage, qui permet aux services d'envoyer des objets sérialisés en JSON, garantissant ainsi une transmission des données sécurisée et efficace. Le service génère également un identifiant de corrélation unique pour chaque message, facilitant le suivi et le débogage. Grâce à sa conception modulaire, le MessageBus s'intègre facilement dans l'architecture de microservices, assurant une communication fluide et scalable entre les composants de l'application.
+5. **ShopMaster.MessageBus**  
+   This service manages asynchronous communication between the various microservices within the ShopMaster application. Developed with .NET 8, it uses Azure Service Bus to publish messages to topics and queues. The IMessageBus interface defines the PublishMessage method, allowing services to send serialized JSON objects, ensuring secure and efficient data transmission. The service also generates a unique correlation ID for each message, facilitating tracking and debugging. Thanks to its modular design, the MessageBus integrates seamlessly into the microservices architecture, ensuring smooth and scalable communication between the application components.
 
-6. **ShopMaster.Services.EmailAPI**
-Ce service gère l'envoi d'emails au sein de l'application ShopMaster. Développé avec .NET 8, il utilise Azure Service Bus pour recevoir des messages et déclencher des actions d'envoi d'emails. Le service inclut un EmailService qui s'occupe de la création et de l'envoi des messages électroniques, ainsi que de la journalisation des emails envoyés. Les messages reçus sont traités à l'aide de consommateurs de Service Bus qui gèrent différentes actions, comme l'envoi d'un récapitulatif de panier, la confirmation d'enregistrement d'utilisateur et la notification de commandes passées. Les données de connexion à la base de données SQL Server et les informations de Service Bus sont configurées via des fichiers appsettings. Ce microservice expose des fonctionnalités via une API REST, offrant ainsi une communication asynchrone et scalable pour l'application.
+6. **ShopMaster.Services.EmailAPI**  
+   This service manages the sending of emails within the ShopMaster application. Developed with .NET 8, it uses Azure Service Bus to receive messages and trigger email-sending actions. The service includes an EmailService that handles the creation and sending of email messages, as well as logging sent emails. Incoming messages are processed using Service Bus consumers that manage different actions, such as sending a cart summary, user registration confirmation, and order notifications. Connection data for the SQL Server database and Service Bus information are configured through appsettings files. This microservice exposes functionalities via a REST API, providing asynchronous and scalable communication for the application.
 
-7. **ShopMaster.Services.OrderAPI**
-Ce service gère la gestion des commandes dans l'application ShopMaster. Développé avec ASP.NET Core, il permet aux utilisateurs de créer, lire, mettre à jour et supprimer des commandes. Le service utilise Entity Framework pour interagir avec la base de données des commandes et AutoMapper pour gérer les mappages entre les modèles de données et les DTOs. Il prend en charge le traitement des commandes, y compris la validation, le calcul des totaux et la gestion des statuts de commande. Les informations sur les commandes sont exposées via une API REST, permettant aux autres services, comme le service de paiement et le service d'authentification, de consommer les données des commandes. Ce service est sécurisé par des autorisations basées sur les rôles, garantissant que seules les opérations appropriées peuvent être effectuées par les utilisateurs. Les données sont stockées dans une base de données SQL Server, et le service utilise Swagger pour la documentation de l'API, facilitant ainsi l'intégration et l'utilisation par d'autres composants de l'application.
+7. **ShopMaster.Services.OrderAPI**  
+   This service manages order processing within the ShopMaster application. Developed with ASP.NET Core, it allows users to create, read, update, and delete orders. The service uses Entity Framework to interact with the order database and AutoMapper to manage mappings between data models and DTOs. It supports order processing, including validation, total calculation, and order status management. Order information is exposed via a REST API, allowing other services, such as the payment service and authentication service, to consume order data. This service is secured by role-based permissions, ensuring that only appropriate operations can be performed by users. Data is stored in a SQL Server database, and the service uses Swagger for API documentation, facilitating integration and usage by other components of the application.
 
-8. **ShopMaster.Gateway**
-Le service ShopMaster.Gateway sert de point d'entrée principal pour tous les microservices de l'application ShopMaster. Développé avec ASP.NET Core, ce composant joue un rôle essentiel dans la gestion des requêtes des utilisateurs en les redirigeant vers les services appropriés. Il agit comme un reverse proxy, permettant une communication fluide entre le frontend et les divers microservices, tout en offrant une couche de sécurité supplémentaire grâce à l'authentification et à l'autorisation centralisées.
-Le gateway gère également la collecte et l'agrégation des réponses des microservices, facilitant ainsi une expérience utilisateur harmonieuse. En plus de la gestion des requêtes, il intègre des mécanismes de routage basés sur des règles, ce qui permet de diriger les appels API vers les services les plus appropriés en fonction de l'URL et des paramètres fournis.
-Ce service est également conçu pour être évolutif et maintenable, permettant d'ajouter facilement de nouveaux microservices sans nécessiter de modifications significatives dans l'architecture existante. Grâce à l'utilisation de Swagger, la documentation des API est automatiquement générée, offrant aux développeurs une interface interactive pour explorer les différentes routes disponibles.
+8. **ShopMaster.Gateway**  
+   The ShopMaster.Gateway service serves as the main entry point for all microservices within the ShopMaster application. Developed with ASP.NET Core, this component plays a vital role in managing user requests by redirecting them to the appropriate services. It acts as a reverse proxy, allowing for smooth communication between the frontend and various microservices while providing an additional layer of security through centralized authentication and authorization.  
+   The gateway also handles the collection and aggregation of responses from microservices, facilitating a seamless user experience. In addition to request management, it incorporates rule-based routing mechanisms, enabling API calls to be directed to the most appropriate services based on the provided URL and parameters.  
+   This service is designed to be scalable and maintainable, allowing for the easy addition of new microservices without requiring significant changes to the existing architecture. With the use of Swagger, API documentation is automatically generated, providing developers with an interactive interface to explore the different available routes.
 
-9. **ShopMaster.Services.RewardAPI**
-Le service ShopMaster.Services.RewardAPI est un élément clé du système de fidélité de l'application ShopMaster, conçu pour enrichir l'expérience d'achat des utilisateurs en leur permettant de gagner et d'échanger des points de fidélité. Développé avec ASP.NET Core, ce service vise à encourager l'engagement des utilisateurs et à renforcer leur fidélité à la marque à travers des récompenses attrayantes.
+9. **ShopMaster.Services.RewardAPI**  
+   The ShopMaster.Services.RewardAPI service is a key element of the loyalty system within the ShopMaster application, designed to enhance the shopping experience for users by allowing them to earn and redeem loyalty points. Developed with ASP.NET Core, this service aims to encourage user engagement and strengthen brand loyalty through attractive rewards.  
 
-Avec RewardAPI, les utilisateurs peuvent facilement accumuler des points en fonction de leurs interactions sur la plateforme, que ce soit par le biais d'achats réguliers ou en participant à des promotions spéciales. Ce service fournit également une interface intuitive pour consulter le solde de points et un historique détaillé des transactions, tout en offrant des options d'échange flexibles, telles que des remises ou des produits exclusifs.
+   With RewardAPI, users can easily accumulate points based on their interactions on the platform, whether through regular purchases or participating in special promotions. This service also provides an intuitive interface for checking point balances and a detailed transaction history, while offering flexible redemption options, such as discounts or exclusive products.  
 
-Pour garantir une gestion efficace des récompenses, ce service comprend des fonctionnalités administratives permettant de configurer les règles de gain et d'échange de points, ainsi que de surveiller les activités des utilisateurs à travers un tableau de bord dédié. RewardAPI est sécurisé par des autorisations basées sur les rôles, assurant que seuls les utilisateurs autorisés peuvent effectuer des transactions relatives aux points de fidélité.
+   To ensure effective reward management, this service includes administrative features to configure point earning and redemption rules, as well as monitor user activities through a dedicated dashboard. RewardAPI is secured by role-based permissions, ensuring that only authorized users can perform loyalty point transactions.  
 
-En intégrant Swagger pour la documentation de l'API, ShopMaster.Services.RewardAPI facilite l'intégration avec d'autres microservices, offrant une transparence et une accessibilité maximales pour les développeurs et les administrateurs.
+   By integrating Swagger for API documentation, ShopMaster.Services.RewardAPI facilitates integration with other microservices, providing maximum transparency and accessibility for developers and administrators.
 
 ![ShopMaster-Project-Design](https://raw.githubusercontent.com/Oussama-souissi024/ShopMaster-/refs/heads/main/Microservices-project-architecture.png)
