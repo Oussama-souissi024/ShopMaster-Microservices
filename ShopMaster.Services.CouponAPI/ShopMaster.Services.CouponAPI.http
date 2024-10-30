@@ -1,0 +1,6 @@
+@ShopMaster.Services.CouponAPI_HostAddress = http://localhost:5096
+
+GET {{ShopMaster.Services.CouponAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@ShopMaster.Services.AthAPI_HostAddress = http://localhost:5189
+
+GET {{ShopMaster.Services.AthAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

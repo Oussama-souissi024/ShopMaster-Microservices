@@ -1,0 +1,6 @@
+@ShopMaster.Services.ShoppingCardAPI_HostAddress = http://localhost:5058
+
+GET {{ShopMaster.Services.ShoppingCardAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
