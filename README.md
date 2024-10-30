@@ -6,6 +6,17 @@
 ## Architecture du Projet
 L'application ShopMaster est divisée en plusieurs microservices qui communiquent entre eux via des appels HTTP. Cette architecture permet une séparation des préoccupations, une meilleure gestion des dépendances, et la possibilité de scaler chaque service indépendamment.
 
+## Menu des Services
+- **ShopMaster.Web**
+- **ShopMaster.Services.CouponAPI**
+- **ShopMaster.Services.ProductAPI**
+- **ShopMaster.Services.AuthAPI**
+- **ShopMaster.MessageBus**
+- **ShopMaster.Services.EmailAPI**
+- **ShopMaster.Services.OrderAPI**
+- **ShopMaster.Gateway**
+- **ShopMaster.Services.RewardAPI**
+
 ### Services dans le Projet
 
 1. **ShopMaster.Web**  
