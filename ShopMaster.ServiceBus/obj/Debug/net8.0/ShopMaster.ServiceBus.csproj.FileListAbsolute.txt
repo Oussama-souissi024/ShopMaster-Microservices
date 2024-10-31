@@ -1,0 +1,36 @@
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Services.EmailAPI\bin\Debug\net8.0\ShopMaster.ServiceBus.deps.json
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Services.EmailAPI\bin\Debug\net8.0\ShopMaster.ServiceBus.dll
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Services.EmailAPI\bin\Debug\net8.0\ShopMaster.ServiceBus.pdb
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Services.EmailAPI\obj\Debug\net8.0\ShopMaster.ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Services.EmailAPI\obj\Debug\net8.0\ShopMaster.ServiceBus.AssemblyInfoInputs.cache
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Services.EmailAPI\obj\Debug\net8.0\ShopMaster.ServiceBus.AssemblyInfo.cs
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Services.EmailAPI\obj\Debug\net8.0\ShopMaster.ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Services.EmailAPI\obj\Debug\net8.0\ShopMaster.ServiceBus.dll
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Services.EmailAPI\obj\Debug\net8.0\refint\ShopMaster.ServiceBus.dll
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Services.EmailAPI\obj\Debug\net8.0\ShopMaster.ServiceBus.pdb
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Services.EmailAPI\obj\Debug\net8.0\ref\ShopMaster.ServiceBus.dll
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.ServiceBus\bin\Debug\net8.0\ShopMaster.ServiceBus.deps.json
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.ServiceBus\bin\Debug\net8.0\ShopMaster.ServiceBus.dll
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.ServiceBus\bin\Debug\net8.0\ShopMaster.ServiceBus.pdb
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.ServiceBus\obj\Debug\net8.0\ShopMaster.ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.ServiceBus\obj\Debug\net8.0\ShopMaster.ServiceBus.AssemblyInfoInputs.cache
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.ServiceBus\obj\Debug\net8.0\ShopMaster.ServiceBus.AssemblyInfo.cs
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.ServiceBus\obj\Debug\net8.0\ShopMaster.ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.ServiceBus\obj\Debug\net8.0\ShopMaster.ServiceBus.dll
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.ServiceBus\obj\Debug\net8.0\refint\ShopMaster.ServiceBus.dll
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.ServiceBus\obj\Debug\net8.0\ShopMaster.ServiceBus.pdb
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.ServiceBus\obj\Debug\net8.0\ref\ShopMaster.ServiceBus.dll
+C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.ServiceBus\obj\Debug\net8.0\ShopMaster.ServiceBus.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster\ShopMaster.ServiceBus\bin\Debug\net8.0\ShopMaster.ServiceBus.deps.json
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster\ShopMaster.ServiceBus\bin\Debug\net8.0\ShopMaster.ServiceBus.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster\ShopMaster.ServiceBus\bin\Debug\net8.0\ShopMaster.ServiceBus.pdb
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster\ShopMaster.ServiceBus\obj\Debug\net8.0\ShopMaster.ServiceBus.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster\ShopMaster.ServiceBus\obj\Debug\net8.0\ShopMaster.ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster\ShopMaster.ServiceBus\obj\Debug\net8.0\ShopMaster.ServiceBus.AssemblyInfoInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster\ShopMaster.ServiceBus\obj\Debug\net8.0\ShopMaster.ServiceBus.AssemblyInfo.cs
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster\ShopMaster.ServiceBus\obj\Debug\net8.0\ShopMaster.ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster\ShopMaster.ServiceBus\obj\Debug\net8.0\ShopMaster.ServiceBus.sourcelink.json
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster\ShopMaster.ServiceBus\obj\Debug\net8.0\ShopMaster.ServiceBus.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster\ShopMaster.ServiceBus\obj\Debug\net8.0\refint\ShopMaster.ServiceBus.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster\ShopMaster.ServiceBus\obj\Debug\net8.0\ShopMaster.ServiceBus.pdb
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster\ShopMaster.ServiceBus\obj\Debug\net8.0\ref\ShopMaster.ServiceBus.dll

@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A68EC55-6555-4C0C-8C43-E22A6129605D}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster\\shopmaster.services.emailapi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A68EC55-6555-4C0C-8C43-E22A6129605D}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|solutionrelative:shopmaster.services.emailapi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E886EA9-FB5A-4C81-9E09-730F3768D551}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster\\shopmaster.services.emailapi\\migrations\\20241031105346_initial-email-migration-mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E886EA9-FB5A-4C81-9E09-730F3768D551}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|solutionrelative:shopmaster.services.emailapi\\migrations\\20241031105346_initial-email-migration-mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E601DC1D-9566-4FFC-9FE8-8425A19A61F8}|ShopMaster.Web\\ShopMaster.Web.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster\\shopmaster.web\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E601DC1D-9566-4FFC-9FE8-8425A19A61F8}|ShopMaster.Web\\ShopMaster.Web.csproj|solutionrelative:shopmaster.web\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2E886EA9-FB5A-4C81-9E09-730F3768D551}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster\\shopmaster.services.emailapi\\shopmaster.services.emailapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E886EA9-FB5A-4C81-9E09-730F3768D551}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|solutionrelative:shopmaster.services.emailapi\\shopmaster.services.emailapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E601DC1D-9566-4FFC-9FE8-8425A19A61F8}|ShopMaster.Web\\ShopMaster.Web.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster\\shopmaster.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E601DC1D-9566-4FFC-9FE8-8425A19A61F8}|ShopMaster.Web\\ShopMaster.Web.csproj|solutionrelative:shopmaster.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E886EA9-FB5A-4C81-9E09-730F3768D551}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster\\shopmaster.services.emailapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E886EA9-FB5A-4C81-9E09-730F3768D551}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|solutionrelative:shopmaster.services.emailapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1D34074-FD6C-4B57-ABBB-E90BB258221C}|ShopMaster.Services.ShoppingCardAPI\\ShopMaster.Services.ShoppingCardAPI.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster\\shopmaster.services.shoppingcardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1D34074-FD6C-4B57-ABBB-E90BB258221C}|ShopMaster.Services.ShoppingCardAPI\\ShopMaster.Services.ShoppingCardAPI.csproj|solutionrelative:shopmaster.services.shoppingcardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E886EA9-FB5A-4C81-9E09-730F3768D551}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster\\shopmaster.services.emailapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E886EA9-FB5A-4C81-9E09-730F3768D551}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|solutionrelative:shopmaster.services.emailapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1D34074-FD6C-4B57-ABBB-E90BB258221C}|ShopMaster.Services.ShoppingCardAPI\\ShopMaster.Services.ShoppingCardAPI.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster\\shopmaster.services.shoppingcardapi\\utility\\backendapiauthenticationhttpclienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1D34074-FD6C-4B57-ABBB-E90BB258221C}|ShopMaster.Services.ShoppingCardAPI\\ShopMaster.Services.ShoppingCardAPI.csproj|solutionrelative:shopmaster.services.shoppingcardapi\\utility\\backendapiauthenticationhttpclienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E886EA9-FB5A-4C81-9E09-730F3768D551}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster\\shopmaster.services.emailapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E886EA9-FB5A-4C81-9E09-730F3768D551}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|solutionrelative:shopmaster.services.emailapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,64 +35,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.EmailAPI\\Class1.cs",
-              "RelativeDocumentMoniker": "ShopMaster.Services.EmailAPI\\Class1.cs",
-              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.EmailAPI\\Class1.cs",
-              "RelativeToolTip": "ShopMaster.Services.EmailAPI\\Class1.cs",
+              "Title": "20241031105346_initial-Email-Migration-Mig.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.EmailAPI\\Migrations\\20241031105346_initial-Email-Migration-Mig.cs",
+              "RelativeDocumentMoniker": "ShopMaster.Services.EmailAPI\\Migrations\\20241031105346_initial-Email-Migration-Mig.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.EmailAPI\\Migrations\\20241031105346_initial-Email-Migration-Mig.cs",
+              "RelativeToolTip": "ShopMaster.Services.EmailAPI\\Migrations\\20241031105346_initial-Email-Migration-Mig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T10:48:50.22Z",
+              "WhenOpened": "2024-10-31T10:53:46.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CartIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Web\\Views\\Cart\\CartIndex.cshtml",
-              "RelativeDocumentMoniker": "ShopMaster.Web\\Views\\Cart\\CartIndex.cshtml",
-              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Web\\Views\\Cart\\CartIndex.cshtml",
-              "RelativeToolTip": "ShopMaster.Web\\Views\\Cart\\CartIndex.cshtml",
+              "Title": "ShopMaster.Services.EmailAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj",
+              "RelativeDocumentMoniker": "ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj",
+              "RelativeToolTip": "ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T18:30:59.782Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T10:53:07.223Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Web\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "ShopMaster.Web\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Web\\Controllers\\CartController.cs",
-              "RelativeToolTip": "ShopMaster.Web\\Controllers\\CartController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAQwC4AAAAIAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.EmailAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ShopMaster.Services.EmailAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.EmailAPI\\Program.cs",
+              "RelativeToolTip": "ShopMaster.Services.EmailAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T18:27:33.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BackendApiAuthenticationHttpClientHandler.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.ShoppingCardAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
-              "RelativeDocumentMoniker": "ShopMaster.Services.ShoppingCardAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
-              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.ShoppingCardAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
-              "RelativeToolTip": "ShopMaster.Services.ShoppingCardAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T18:24:54.587Z"
+              "WhenOpened": "2024-10-31T10:52:29.88Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.ShoppingCardAPI\\Program.cs",
-              "RelativeDocumentMoniker": "ShopMaster.Services.ShoppingCardAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.ShoppingCardAPI\\Program.cs",
-              "RelativeToolTip": "ShopMaster.Services.ShoppingCardAPI\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAADkAAABGAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.EmailAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopMaster.Services.EmailAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.EmailAPI\\appsettings.json",
+              "RelativeToolTip": "ShopMaster.Services.EmailAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T10:51:14.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.EmailAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ShopMaster.Services.EmailAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.EmailAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ShopMaster.Services.EmailAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T18:23:04.462Z"
+              "WhenOpened": "2024-10-31T10:49:48.713Z"
             }
           ]
         }

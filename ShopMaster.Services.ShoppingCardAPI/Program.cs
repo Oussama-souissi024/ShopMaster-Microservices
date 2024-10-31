@@ -2,6 +2,7 @@ using AutoMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
+using ShopMaster.ServiceBus;
 using ShopMaster.Services.ProductAPI;
 using ShopMaster.Services.ShoppingCardAPI.Extentions;
 using ShopMaster.Services.ShoppingCardAPI.Service;
@@ -64,6 +65,7 @@ builder.Services.AddHttpContextAccessor();
 // Dependency Injection
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICouponService, CouponService>();
+builder.Services.AddScoped<IMessageBus, MessageBus>();
 
 // AutoMapper configuration
 IMapper mapper = MappingConfig.RegisterMaps().CreateMapper();

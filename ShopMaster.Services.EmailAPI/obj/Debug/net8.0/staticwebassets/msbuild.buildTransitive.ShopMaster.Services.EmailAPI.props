@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ShopMaster.Services.EmailAPI.props" />
+</Project>

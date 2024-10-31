@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using ShopMaster.ServiceBus;
 using ShopMaster.Services.ShoppingCardAPI.Models;
 using ShopMaster.Services.ShoppingCardAPI.Models.Dto;
 using ShopMaster.Services.ShoppingCardAPI.Service.IService;
@@ -19,17 +21,23 @@ namespace ShopMaster.Services.ShoppingCardAPI.Controllers
         private readonly IMapper _mapper;
         private readonly IProductService _productService;
         private readonly ICouponService _couponService;
+        private readonly IMessageBus _messageBus;
+        private readonly IConfiguration _configuration;
 
         public CartAPIController(AppDbContext db,
                                   IMapper mapper,
                                  IProductService productService,
-                                 ICouponService couponService)
+                                 ICouponService couponService,
+                                 IMessageBus messageBus,
+                                 IConfiguration configuration)
         {
             _response = new ResponseDto();
             _db = db;
             _mapper = mapper;
             _productService = productService;
             _couponService = couponService;
+            _messageBus = messageBus;
+            _configuration = configuration;
         }
 
         [HttpGet("GetCart/{userId}")]
@@ -161,6 +169,22 @@ namespace ShopMaster.Services.ShoppingCardAPI.Controllers
                 cartFromDb.CouponCode = cartDto.CartHeader.CouponCode;
                 _db.CartHeaders.Update(cartFromDb);
                 await _db.SaveChangesAsync();
+                _response.Result = true;
+            }
+            catch (Exception ex)
+            {
+                _response.IsSuccess = false;
+                _response.Message = ex.ToString();
+            }
+            return _response;
+        }
+
+        [HttpPost("EmailCartRequest")]
+        public async Task<object> EmailCartRequest([FromBody] CartDto cartDto)
+        {
+            try
+            {
+                await _messageBus.PublishMessage(cartDto, _configuration.GetValue<string>("TopicAndQueueNames:EmailShoppingCartQueue"));
                 _response.Result = true;
             }
             catch (Exception ex)

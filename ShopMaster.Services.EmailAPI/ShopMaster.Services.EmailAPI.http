@@ -1,0 +1,6 @@
+@ShopMaster.Services.EmailAPI_HostAddress = http://localhost:5267
+
+GET {{ShopMaster.Services.EmailAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
