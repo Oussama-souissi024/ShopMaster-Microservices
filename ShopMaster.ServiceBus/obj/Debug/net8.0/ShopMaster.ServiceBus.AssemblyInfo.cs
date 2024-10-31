@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopMaster.ServiceBus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0aa4b23963720bfe8aa073ef9681f9bce3d01a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce7fec2b32ea9bbfd7b2897a2746f645359599ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopMaster.ServiceBus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopMaster.ServiceBus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
