@@ -14,3 +14,10 @@ obj/
 *.json
 *.runtimeconfig.cache
 *.staticwebassets.*
+
+# Fichiers spécifiques au système d'exploitation
+*.DS_Store
+Thumbs.db
+
+# Autres artefacts
+*.log
