@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.ProductAPI\\wwwroot\\ProductImages\\1001.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\1001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.ProductAPI\\wwwroot\\ProductImages\\2001.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\2001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.ProductAPI\\wwwroot\\ProductImages\\2004.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\2004.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopMaster.Services.ProductAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShopMaster.Services.ProductAPI.props",
+      "PackagePath": "build\\ShopMaster.Services.ProductAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopMaster.Services.ProductAPI.props",
+      "PackagePath": "buildMultiTargeting\\ShopMaster.Services.ProductAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShopMaster.Services.ProductAPI.props",
+      "PackagePath": "buildTransitive\\ShopMaster.Services.ProductAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

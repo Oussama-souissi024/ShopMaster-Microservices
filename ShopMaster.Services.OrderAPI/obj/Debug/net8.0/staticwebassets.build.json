@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u3uPQyr+sS4UYAeIHOH7iwbwIaQoDcimK7t63vb3efs=",
+  "Source": "ShopMaster.Services.OrderAPI",
+  "BasePath": "_content/ShopMaster.Services.OrderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

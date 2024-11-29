@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ShopMaster.GatewaySolution.props" />
+</Project>
