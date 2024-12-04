@@ -438,3 +438,5 @@ C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\Shop
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.CouponAPI\obj\Debug\net8.0\ShopMaster.Services.CouponAPI.pdb
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.CouponAPI\obj\Debug\net8.0\ShopMaster.Services.CouponAPI.genruntimeconfig.cache
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.CouponAPI\obj\Debug\net8.0\ref\ShopMaster.Services.CouponAPI.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.CouponAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.CouponAPI\bin\Debug\net8.0\Stripe.net.dll

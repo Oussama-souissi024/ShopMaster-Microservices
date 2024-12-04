@@ -8,7 +8,7 @@ using ShopMaster.Services.EmailAPI.Data;
 
 #nullable disable
 
-namespace ShopMaster.Services.EmailAPI.Migrations
+namespace Mango.Services.EmailAPI.Migrations
 {
     [DbContext(typeof(AppDbContext))]
     partial class AppDbContextModelSnapshot : ModelSnapshot
@@ -17,12 +17,12 @@ namespace ShopMaster.Services.EmailAPI.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.10")
+                .HasAnnotation("ProductVersion", "8.0.0-preview.3.23174.2")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("ShopMaster.Services.EmailAPI.Models.EmailLogger", b =>
+            modelBuilder.Entity("Mango.Services.EmailAPI.Models.EmailLogger", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

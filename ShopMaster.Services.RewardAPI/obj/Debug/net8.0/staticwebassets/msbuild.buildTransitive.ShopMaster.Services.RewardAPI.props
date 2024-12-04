@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\ShopMaster.Services.RewardAPI.props" />
-</Project>

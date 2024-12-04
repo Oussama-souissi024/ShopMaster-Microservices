@@ -1692,6 +1692,20 @@
             "rid": "win"
           }
         }
+      },
+      "ShopMaster.ServiceBus/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Azure.Messaging.ServiceBus": "7.18.2",
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "compile": {
+          "bin/placeholder/ShopMaster.ServiceBus.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopMaster.ServiceBus.dll": {}
+        }
       }
     }
   },
@@ -4558,13 +4572,17 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ShopMaster.ServiceBus/1.0.0": {
+      "type": "project",
+      "path": "../ShopMaster.ServiceBus/ShopMaster.ServiceBus.csproj",
+      "msbuildProject": "../ShopMaster.ServiceBus/ShopMaster.ServiceBus.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "AutoMapper >= 12.0.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
-      "Azure.Messaging.ServiceBus >= 7.18.2",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.10",
       "Microsoft.AspNetCore.OpenApi >= 8.0.10",
       "Microsoft.EntityFrameworkCore >= 8.0.10",
@@ -4572,6 +4590,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.10",
       "Newtonsoft.Json >= 13.0.3",
+      "ShopMaster.ServiceBus >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -4602,7 +4621,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.ServiceBus\\ShopMaster.ServiceBus.csproj": {
+              "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.ServiceBus\\ShopMaster.ServiceBus.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -4627,10 +4650,6 @@
           "AutoMapper.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
             "version": "[12.0.1, )"
-          },
-          "Azure.Messaging.ServiceBus": {
-            "target": "Package",
-            "version": "[7.18.2, )"
           },
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",

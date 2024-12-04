@@ -18,7 +18,7 @@ namespace ShopMaster.Web.Service
             {
                 ApiType = SD.ApiType.POST,
                 Data = productDto,
-                Url = SD.PrroductAPIBase + "/api/product"
+                Url = SD.ProductAPIBase + "/api/product"
             });
         }
 
@@ -27,7 +27,7 @@ namespace ShopMaster.Web.Service
             return await _baseService.SendAsync(new RequestDto()
             {
                 ApiType = SD.ApiType.DELETE,
-                Url = SD.PrroductAPIBase + "/api/product/" + id
+                Url = SD.ProductAPIBase + "/api/product/" + id
             });
         }
 
@@ -36,7 +36,7 @@ namespace ShopMaster.Web.Service
             return await _baseService.SendAsync(new RequestDto()
             {
                 ApiType = SD.ApiType.GET,
-                Url = SD.PrroductAPIBase + "/api/product"
+                Url = SD.ProductAPIBase + "/api/product"
             });
         }
 
@@ -45,7 +45,7 @@ namespace ShopMaster.Web.Service
             return await _baseService.SendAsync(new RequestDto()
             {
                 ApiType = SD.ApiType.GET,
-                Url = SD.PrroductAPIBase + "/api/product/" + id
+                Url = SD.ProductAPIBase + "/api/product/" + id
             });
         }
 
@@ -55,7 +55,7 @@ namespace ShopMaster.Web.Service
             {
                 ApiType = SD.ApiType.PUT,
                 Data = productDto,
-                Url = SD.PrroductAPIBase + "/api/product"
+                Url = SD.ProductAPIBase + "/api/product"
             });
         }
     }

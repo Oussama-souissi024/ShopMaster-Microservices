@@ -11,6 +11,6 @@ namespace ShopMaster.Services.EmailAPI.Data
 
         public DbSet<EmailLogger> EmailLoggers { get; set; }
 
-
+        
     }
 }

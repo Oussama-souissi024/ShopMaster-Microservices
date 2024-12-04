@@ -117,6 +117,17 @@ namespace ShopMaster.Services.CouponAPI.Controllers
                 Coupon obj = _mapper.Map<Coupon>(couponDto);
                 _db.Coupons.Add(obj);
                 _db.SaveChanges();
+
+                var options = new Stripe.CouponCreateOptions
+                {
+                    AmountOff = (long)(couponDto.DiscountAmount * 100),
+                    Name = couponDto.CouponCode,
+                    Currency = "usd",
+                    Id = couponDto.CouponCode,
+                };
+                var service = new Stripe.CouponService();
+                service.Create(options); 
+
                 _response.Result = _mapper.Map<CouponDto>(obj);
             }
 			catch(Exception ex) 
@@ -182,6 +193,9 @@ namespace ShopMaster.Services.CouponAPI.Controllers
                 _db.SaveChanges();
 				_response.IsSuccess = true;
 				_response.Message = "Coupon Deleted Successfully";
+
+                var service = new Stripe.CouponService();
+                service.Delete(obj.CouponCode);
             }
 			catch(Exception ex)
 			{

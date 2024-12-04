@@ -301,6 +301,11 @@ C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Services.A
 C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.genruntimeconfig.cache
 C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ref\ShopMaster.Services.AthAPI.dll
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.sourcelink.json
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.sourcelink.json
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\refint\ShopMaster.Services.AthAPI.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ref\ShopMaster.Services.AthAPI.dll
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\bin\Debug\net8.0\appsettings.json
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\bin\Debug\net8.0\ShopMaster.Services.AthAPI.exe
@@ -431,14 +436,12 @@ C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\Shop
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.csproj.AssemblyReference.cache
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.AssemblyInfoInputs.cache
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.AssemblyInfo.cs
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.csproj.CoreCompileInputs.cache
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.sourcelink.json
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\staticwebassets\msbuild.ShopMaster.Services.AthAPI.Microsoft.AspNetCore.StaticWebAssets.props
@@ -448,8 +451,5 @@ C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\Shop
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\scopedcss\bundle\ShopMaster.Services.AthAPI.styles.css
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMast.DC17DD7A.Up2Date
-C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.dll
-C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\refint\ShopMaster.Services.AthAPI.dll
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.pdb
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ShopMaster.Services.AthAPI.genruntimeconfig.cache
-C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Services.AthAPI\obj\Debug\net8.0\ref\ShopMaster.Services.AthAPI.dll

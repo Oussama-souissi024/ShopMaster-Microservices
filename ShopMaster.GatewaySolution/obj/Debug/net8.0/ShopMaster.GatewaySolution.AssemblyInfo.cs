@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopMaster.GatewaySolution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8d1fd580a27d39ec1bcc12e9ec43f7cec76cb9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95f58c68ef73dddc012ac6a4969b991fc67fa105")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopMaster.GatewaySolution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopMaster.GatewaySolution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

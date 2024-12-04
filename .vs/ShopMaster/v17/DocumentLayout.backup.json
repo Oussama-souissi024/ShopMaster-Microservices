@@ -3,16 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E886EA9-FB5A-4C81-9E09-730F3768D551}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster - copie\\shopmaster.services.emailapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2E886EA9-FB5A-4C81-9E09-730F3768D551}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|solutionrelative:shopmaster.services.emailapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2E00B893-F031-4F1D-B3B4-A8532E30DB51}|ShopMaster.Services.RewardAPI\\ShopMaster.Services.RewardAPI.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster - copie\\shopmaster.services.rewardapi\\messaging\\azureservicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E00B893-F031-4F1D-B3B4-A8532E30DB51}|ShopMaster.Services.RewardAPI\\ShopMaster.Services.RewardAPI.csproj|solutionrelative:shopmaster.services.rewardapi\\messaging\\azureservicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A68EC55-6555-4C0C-8C43-E22A6129605D}|ShopMaster.ServiceBus\\ShopMaster.ServiceBus.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster - copie\\shopmaster.servicebus\\messagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A68EC55-6555-4C0C-8C43-E22A6129605D}|ShopMaster.ServiceBus\\ShopMaster.ServiceBus.csproj|solutionrelative:shopmaster.servicebus\\messagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4045F16D-99F7-4FB3-933F-8105D33FDC0D}|ShopMaster.Services.OrderAPI\\ShopMaster.Services.OrderAPI.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster - copie\\shopmaster.services.orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4045F16D-99F7-4FB3-933F-8105D33FDC0D}|ShopMaster.Services.OrderAPI\\ShopMaster.Services.OrderAPI.csproj|solutionrelative:shopmaster.services.orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,12 +17,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -46,49 +37,32 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Services.OrderAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "ShopMaster.Services.OrderAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Services.OrderAPI\\appsettings.json",
-              "RelativeToolTip": "ShopMaster.Services.OrderAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-04T11:18:24.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Services.EmailAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "ShopMaster.Services.EmailAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Services.EmailAPI\\appsettings.json",
-              "RelativeToolTip": "ShopMaster.Services.EmailAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-04T11:17:56.374Z",
+              "Title": "AzureServiceBusConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Services.RewardAPI\\Messaging\\AzureServiceBusConsumer.cs",
+              "RelativeDocumentMoniker": "ShopMaster.Services.RewardAPI\\Messaging\\AzureServiceBusConsumer.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Services.RewardAPI\\Messaging\\AzureServiceBusConsumer.cs*",
+              "RelativeToolTip": "ShopMaster.Services.RewardAPI\\Messaging\\AzureServiceBusConsumer.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:30:30.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MessageBus.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.ServiceBus\\MessageBus.cs",
-              "RelativeDocumentMoniker": "ShopMaster.ServiceBus\\MessageBus.cs",
-              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.ServiceBus\\MessageBus.cs",
-              "RelativeToolTip": "ShopMaster.ServiceBus\\MessageBus.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T11:17:36.882Z",
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAPQVAAAAAAAAAAAgwPwVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-04T17:29:33.088Z",
               "EditorCaption": ""
             }
           ]

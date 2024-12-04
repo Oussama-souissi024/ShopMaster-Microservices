@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bvcViN+2PJY=",
+  "dgSpecHash": "aKRwRjUhrfM=",
   "success": true,
   "projectFilePath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Services.CouponAPI\\ShopMaster.Services.CouponAPI.csproj",
   "expectedPackageFiles": [
@@ -50,6 +50,8 @@
     "C:\\Users\\oussa\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\oussa\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\oussa\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\oussa\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\oussa\\.nuget\\packages\\stripe.net\\41.13.0\\stripe.net.41.13.0.nupkg.sha512",
     "C:\\Users\\oussa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\oussa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\oussa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

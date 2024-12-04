@@ -10,7 +10,7 @@ namespace ShopMaster.ServiceBus
 {
     public class MessageBus : IMessageBus
     {
-        private string connectionString = "YOUR_SECRET_HERE";
+        private string connectionString = "You Secret Here";
         public async Task PublishMessage(object message, string topic_queue_Name)
         {
             await using var client = new ServiceBusClient(connectionString);

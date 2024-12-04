@@ -5,12 +5,6 @@ using ShopMaster.Web.Utility;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configure Sevices Urls
-SD.PrroductAPIBase = builder.Configuration["ServiceUrls:ProductAPI"];
-SD.CouponAPIBase = builder.Configuration["ServiceUrls:CouponAPI"];
-SD.AuthAPIBase = builder.Configuration["ServiceUrls:AuthAPI"];
-SD.ShoppingCardAPIBase = builder.Configuration["ServiceUrls:SoppingCardAPI"];
-
 // Add Client
 builder.Services.AddControllersWithViews();
 builder.Services.AddHttpContextAccessor();
@@ -19,6 +13,14 @@ builder.Services.AddHttpClient<ICouponService, CouponService>();
 builder.Services.AddHttpClient<IAuthService, AuthService>();
 builder.Services.AddHttpClient<IProductService, ProductService>();
 builder.Services.AddHttpClient<ICartService, CartService>();
+builder.Services.AddHttpClient<IOrderService, OrderService>();
+
+// Configure Sevices Urls
+SD.CouponAPIBase = builder.Configuration["ServiceUrls:CouponAPI"];
+SD.OrderAPIBase = builder.Configuration["ServiceUrls:OrderAPI"];
+SD.ShoppingCardAPIBase = builder.Configuration["ServiceUrls:ShoppingCartAPI"];
+SD.AuthAPIBase = builder.Configuration["ServiceUrls:AuthAPI"];
+SD.ProductAPIBase = builder.Configuration["ServiceUrls:ProductAPI"];
 
 //Dependency Injection
 builder.Services.AddScoped<IBaseService, BaseService>();
@@ -27,6 +29,7 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<ITokenProvider, TokenProvider>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICartService, CartService>();
+builder.Services.AddScoped<IOrderService, OrderService>();
 
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(option =>

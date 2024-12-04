@@ -1,0 +1,6 @@
+@ShopMaster.Services.RewardAPI_HostAddress = http://localhost:5201
+
+GET {{ShopMaster.Services.RewardAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

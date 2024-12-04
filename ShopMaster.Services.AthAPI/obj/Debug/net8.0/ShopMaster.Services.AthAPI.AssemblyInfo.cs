@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopMaster.Services.AthAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a78a90df787e6adadb29c52c5a8f6156e5790867")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95f58c68ef73dddc012ac6a4969b991fc67fa105")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopMaster.Services.AthAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopMaster.Services.AthAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
