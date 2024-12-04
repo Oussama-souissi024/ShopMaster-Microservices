@@ -19,6 +19,7 @@ The ShopMaster application is divided into several microservices that communicat
 - **ShopMaster.Services.OrderAPI**
 - **ShopMaster.Gateway**
 - **ShopMaster.Services.RewardAPI**
+- **Stripe**
 
 ### Services in the Project
 
@@ -57,4 +58,30 @@ The ShopMaster application is divided into several microservices that communicat
 
    By integrating Swagger for API documentation, ShopMaster.Services.RewardAPI facilitates integration with other microservices, providing maximum transparency and accessibility for developers and administrators.
 
+10. **Stripe Payment Integration Overview**
+    Stripe is used in two key services:
+
+CouponAPI: Synchronizes coupon data with Stripe for discounts during checkout.
+OrderAPI: Manages payment processing securely and efficiently.
+Testing with Stripe:
+To test Stripe functionality:
+
+Set up your Stripe test account.
+
+Use the provided API keys in your appsettings.json for both CouponAPI and OrderAPI.
+
+json
+Copier le code
+{
+  "Stripe": {
+    "ApiKey": "sk_test_...",
+    "PublishableKey": "pk_test_..."
+  }
+}
+Test payments using Stripe's test card details:
+
+Card Number: 4242 4242 4242 4242
+Expiry Date: Any valid future date.
+CVC: Any 3 digits.
+Verify payments and discounts in your Stripe dashboard.
 ![ShopMaster-Project-Design](https://raw.githubusercontent.com/Oussama-souissi024/ShopMaster-/refs/heads/main/Microservices-project-architecture.png)
