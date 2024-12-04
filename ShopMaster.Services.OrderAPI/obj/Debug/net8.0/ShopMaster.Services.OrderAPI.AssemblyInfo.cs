@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopMaster.Services.OrderAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8d1fd580a27d39ec1bcc12e9ec43f7cec76cb9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a78a90df787e6adadb29c52c5a8f6156e5790867")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopMaster.Services.OrderAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopMaster.Services.OrderAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

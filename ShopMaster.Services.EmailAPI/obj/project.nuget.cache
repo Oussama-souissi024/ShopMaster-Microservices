@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gOeUuIifdW8=",
+  "dgSpecHash": "VYtjFL8Y4Rg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj",
+  "projectFilePath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oussa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\oussa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

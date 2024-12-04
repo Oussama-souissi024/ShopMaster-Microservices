@@ -79,3 +79,44 @@ C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Web\obj\De
 C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Web\obj\Debug\net8.0\ShopMaster.Web.genruntimeconfig.cache
 C:\Users\oussa\Downloads\ShopMaster--main\ShopMaster--main\ShopMaster.Web\obj\Debug\net8.0\ref\ShopMaster.Web.dll
 C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster\ShopMaster.Web\obj\Debug\net8.0\ShopMaster.Web.sourcelink.json
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\ShopMaster.Web.staticwebassets.runtime.json
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\ShopMaster.Web.exe
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\ShopMaster.Web.deps.json
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\ShopMaster.Web.runtimeconfig.json
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\ShopMaster.Web.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\ShopMaster.Web.pdb
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\ShopMaster.Web.csproj.AssemblyReference.cache
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\ShopMaster.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\ShopMaster.Web.AssemblyInfoInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\ShopMaster.Web.AssemblyInfo.cs
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\ShopMaster.Web.csproj.CoreCompileInputs.cache
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\ShopMaster.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\ShopMaster.Web.RazorAssemblyInfo.cache
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\ShopMaster.Web.RazorAssemblyInfo.cs
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\ShopMaster.Web.sourcelink.json
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\staticwebassets\msbuild.ShopMaster.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.ShopMaster.Web.props
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShopMaster.Web.props
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShopMaster.Web.props
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\scopedcss\bundle\ShopMaster.Web.styles.css
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\scopedcss\projectbundle\ShopMaster.Web.bundle.scp.css
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\ShopMast.8D8A5583.Up2Date
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\ShopMaster.Web.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\refint\ShopMaster.Web.dll
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\ShopMaster.Web.pdb
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\ShopMaster.Web.genruntimeconfig.cache
+C:\Users\oussa\OneDrive\Desktop\Microservices\Youtube\Oussama Microservices\ShopMaster - Copie\ShopMaster.Web\obj\Debug\net8.0\ref\ShopMaster.Web.dll

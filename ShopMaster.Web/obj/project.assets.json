@@ -342,11 +342,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Web\\ShopMaster.Web.csproj",
+      "projectUniqueName": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Web\\ShopMaster.Web.csproj",
       "projectName": "ShopMaster.Web",
-      "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Web\\ShopMaster.Web.csproj",
+      "projectPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Web\\ShopMaster.Web.csproj",
       "packagesPath": "C:\\Users\\oussa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.Web\\obj\\",
+      "outputPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oussa\\AppData\\Roaming\\NuGet\\NuGet.Config",

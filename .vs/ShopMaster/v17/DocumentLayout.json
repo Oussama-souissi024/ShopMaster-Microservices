@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\",
+  "WorkspaceRootPath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A68EC55-6555-4C0C-8C43-E22A6129605D}|ShopMaster.ServiceBus\\ShopMaster.ServiceBus.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster\\shopmaster.servicebus\\messagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4045F16D-99F7-4FB3-933F-8105D33FDC0D}|ShopMaster.Services.OrderAPI\\ShopMaster.Services.OrderAPI.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster - copie\\shopmaster.services.orderapi\\migrations\\20230424180848_addordertables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4045F16D-99F7-4FB3-933F-8105D33FDC0D}|ShopMaster.Services.OrderAPI\\ShopMaster.Services.OrderAPI.csproj|solutionrelative:shopmaster.services.orderapi\\migrations\\20230424180848_addordertables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E886EA9-FB5A-4C81-9E09-730F3768D551}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster - copie\\shopmaster.services.emailapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E886EA9-FB5A-4C81-9E09-730F3768D551}|ShopMaster.Services.EmailAPI\\ShopMaster.Services.EmailAPI.csproj|solutionrelative:shopmaster.services.emailapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A68EC55-6555-4C0C-8C43-E22A6129605D}|ShopMaster.ServiceBus\\ShopMaster.ServiceBus.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster - copie\\shopmaster.servicebus\\messagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A68EC55-6555-4C0C-8C43-E22A6129605D}|ShopMaster.ServiceBus\\ShopMaster.ServiceBus.csproj|solutionrelative:shopmaster.servicebus\\messagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4045F16D-99F7-4FB3-933F-8105D33FDC0D}|ShopMaster.Services.OrderAPI\\ShopMaster.Services.OrderAPI.csproj|c:\\users\\oussa\\onedrive\\desktop\\microservices\\youtube\\oussama microservices\\shopmaster - copie\\shopmaster.services.orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4045F16D-99F7-4FB3-933F-8105D33FDC0D}|ShopMaster.Services.OrderAPI\\ShopMaster.Services.OrderAPI.csproj|solutionrelative:shopmaster.services.orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MessageBus.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.ServiceBus\\MessageBus.cs",
-              "RelativeDocumentMoniker": "ShopMaster.ServiceBus\\MessageBus.cs",
-              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.ServiceBus\\MessageBus.cs",
-              "RelativeToolTip": "ShopMaster.ServiceBus\\MessageBus.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Title": "20230424180848_AddOrderTables.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Services.OrderAPI\\Migrations\\20230424180848_AddOrderTables.Designer.cs",
+              "RelativeDocumentMoniker": "ShopMaster.Services.OrderAPI\\Migrations\\20230424180848_AddOrderTables.Designer.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Services.OrderAPI\\Migrations\\20230424180848_AddOrderTables.Designer.cs*",
+              "RelativeToolTip": "ShopMaster.Services.OrderAPI\\Migrations\\20230424180848_AddOrderTables.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T14:06:34.966Z",
+              "WhenOpened": "2024-12-04T11:28:21.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Services.OrderAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopMaster.Services.OrderAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Services.OrderAPI\\appsettings.json",
+              "RelativeToolTip": "ShopMaster.Services.OrderAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T11:18:24.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Services.EmailAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopMaster.Services.EmailAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.Services.EmailAPI\\appsettings.json",
+              "RelativeToolTip": "ShopMaster.Services.EmailAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T11:17:56.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageBus.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.ServiceBus\\MessageBus.cs",
+              "RelativeDocumentMoniker": "ShopMaster.ServiceBus\\MessageBus.cs",
+              "ToolTip": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.ServiceBus\\MessageBus.cs",
+              "RelativeToolTip": "ShopMaster.ServiceBus\\MessageBus.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:17:36.882Z",
               "EditorCaption": ""
             }
           ]

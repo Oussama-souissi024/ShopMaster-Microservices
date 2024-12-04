@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rsMpUkxsd1o=",
+  "dgSpecHash": "1yXKm+10e9c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster\\ShopMaster.ServiceBus\\ShopMaster.ServiceBus.csproj",
+  "projectFilePath": "C:\\Users\\oussa\\OneDrive\\Desktop\\Microservices\\Youtube\\Oussama Microservices\\ShopMaster - Copie\\ShopMaster.ServiceBus\\ShopMaster.ServiceBus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oussa\\.nuget\\packages\\azure.core\\1.44.0\\azure.core.1.44.0.nupkg.sha512",
     "C:\\Users\\oussa\\.nuget\\packages\\azure.core.amqp\\1.3.1\\azure.core.amqp.1.3.1.nupkg.sha512",

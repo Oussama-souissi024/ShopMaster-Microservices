@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopMaster.Services.ProductAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0aa4b23963720bfe8aa073ef9681f9bce3d01a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a78a90df787e6adadb29c52c5a8f6156e5790867")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopMaster.Services.ProductAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopMaster.Services.ProductAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,1 +1,16 @@
+# Exclude build files and folders
+bin/
+obj/
+
+# Exclude Visual Studio files
 .vs/
+*.suo
+*.user
+*.vcxproj.user
+
+# Exclude static web assets and debug files
+*.pdb
+*.cache
+*.json
+*.runtimeconfig.cache
+*.staticwebassets.*
