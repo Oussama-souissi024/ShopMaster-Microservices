@@ -4,7 +4,7 @@
 🚧 **In Development** 🚧
 
 ## Introduction
-**ShopMaster** is an e-commerce application based on a microservices architecture. Each microservice is independent and responsible for a specific functionality of the application, ensuring modularity and increased scalability.
+**ShopMaster**  is an e-commerce application based on a microservices architecture. Each microservice is independent and responsible for a specific functionality of the application, ensuring modularity and increased scalability.
 
 ## Project Architecture
 The ShopMaster application is divided into several microservices that communicate with each other via HTTP calls. This architecture allows for a separation of concerns, better dependency management, and the ability to scale each service independently.
